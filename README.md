@@ -1,16 +1,15 @@
-### Hi there 👋
+### Всем привет! 👋
 
-<!--
-**GlUTEN-BASH/GlUTEN-BASH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я обычный школьник, из обычного российского городка, но я известен этим:
 
-Here are some ideas to get you started:
+- ⛓ Мой никнейм - Gluten
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📋 Мой самый популярный проект - Gluten-basher (Discord crasher)
+
+- 💣 Был в составе JKcrashers
+
+### Мои контакты 📱
+
+- 🎮 Discord - Глютеша#1158
+
+- 🛒 Телега - @GLUTESHUNECHKA
