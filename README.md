@@ -13,3 +13,4 @@
 - 🎮 Discord - Глютеша#1158
 
 - 🛒 Телега - @GLUTESHUNECHKA
+[![GlUTEN-BASH's GitHub stats](https://github-readme-stats.vercel.app/api?username=GlUTEN-BASH)](https://github.com/anuraghazra/github-readme-stats)
