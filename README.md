@@ -4,7 +4,7 @@
 
 - ⛓ Мой никнейм - Gluten
 
-- 📋 Мой самый популярный проект - Gluten-basher (Discord crasher)
+- 📋 Мой самый популярный проект - Flipper-Starnew
 
 ### Мои контакты 📱
 
