@@ -12,8 +12,4 @@
 
 - 🛒 Телега - @GLUTESHUNECHKA
 
-- 🥺 Поддержать копеечкой - https://pay.cloudtips.ru/p/f3d6a11b
-
-
-
 [![GlUTEN-BASH's GitHub stats](https://github-readme-stats.vercel.app/api?username=GlUTEN-BASH)](https://github.com/anuraghazra/github-readme-stats)
